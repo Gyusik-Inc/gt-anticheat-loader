@@ -1,8 +1,7 @@
 {
   "servers": [
     {
-      "key": "LIVE-003",
-      "ip": "d2.skynodes.net:25059",
+      "key": "LIVE-001",
       "allowed": true,
       "core": "https://raw.githubusercontent.com/Gyusik-Inc/gt-anticheat-loader/main/core.dat"
     }
