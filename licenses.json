@@ -1,7 +1,7 @@
 {
   "servers": [
     {
-      "key": "LIVE-001",
+      "key": "LIVE-0011",
       "allowed": true,
       "core": "https://raw.githubusercontent.com/Gyusik-Inc/gt-anticheat-loader/main/core.dat"
     }
