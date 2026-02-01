@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "key": "SURVIVAL-001",
+      "allowed": true,
+      "core": "https://raw.githubusercontent.com/USER/gt-anticheat-loader/main/core.dat"
+    },
+    {
+      "key": "PVP-002",
+      "allowed": false
+    }
+  ]
+}
