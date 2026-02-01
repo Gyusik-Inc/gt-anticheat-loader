@@ -1,15 +1,10 @@
 {
   "servers": [
     {
-      "key": "SURVIVAL-001",
+      "key": "LOCAL-001",
+      "ip": "172.19.0.1",
       "allowed": true,
-      "core": "https://raw.githubusercontent.com/USER/gt-anticheat-loader/main/core.dat",
-      "ip": "127.0.0.1"
-    },
-    {
-      "key": "PVP-002",
-      "allowed": false,
-      "ip": "192.168.1.10"
+      "core": "https://raw.githubusercontent.com/Gyusik-Inc/gt-anticheat-loader/main/core.dat"
     }
   ]
 }
