@@ -3,11 +3,13 @@
     {
       "key": "SURVIVAL-001",
       "allowed": true,
-      "core": "https://raw.githubusercontent.com/USER/gt-anticheat-loader/main/core.dat"
+      "core": "https://raw.githubusercontent.com/USER/gt-anticheat-loader/main/core.dat",
+      "ip": "127.0.0.1"
     },
     {
       "key": "PVP-002",
-      "allowed": false
+      "allowed": false,
+      "ip": "192.168.1.10"
     }
   ]
 }
